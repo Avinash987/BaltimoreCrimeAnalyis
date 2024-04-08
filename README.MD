@@ -3,7 +3,7 @@
 ## Report: Baltimore Violent Crime Trends from 2017 to 2022
 
 ### Professor: Samantha Luckhardt
-### Student: Lalith Avinash Donkina
+### Student: Lalith Avinash Donkina, Apurva Padwal
 
 ---
 
